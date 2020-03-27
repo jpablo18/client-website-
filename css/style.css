@@ -16,7 +16,9 @@
 .navbar-light .navbar-brand:hover{
   color: rgb(255, 102, 102);
 }
-
+h1{
+ text-align: center;
+}
 .dot {
   border-radius: 50%;
   background-color: rgb(255, 253, 125);
@@ -27,3 +29,24 @@
   height: 93px;
   z-index: 3;
 }
+.carousel-item img {
+  height: 500px;
+  width: auto;
+}
+/* .d-block{
+  border-color: pink;
+  background-color: pink;
+} */
+body{
+
+}
+.pink{
+background-color: pink;
+}
+.yellow{
+  background-color: yellow;
+}
+
+/* * {
+  border: 1px solid blue;
+} */
