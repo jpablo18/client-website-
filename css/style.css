@@ -1,5 +1,6 @@
 .bg-light {
-    background-color:rgb(255, 253, 125)!important;
+  background-color: lightyellow !important;
+    /* background-color:rgb(255, 253, 125)!important; */
 }
 .btn-outline-success {
     color: rgb(255, 102, 102);
@@ -12,14 +13,23 @@
 }
 .navbar-light .navbar-brand {
   color: rgb(255, 102, 102);
+  font-size: 35px;
 }
 .navbar-light .navbar-brand:hover{
   color: rgb(255, 102, 102);
 }
 h1{
  text-align: center;
+ color:  rgb(255, 102, 102);
 }
-.dot {
+h5{
+color:  rgb(255, 102, 102);
+}
+p{
+color:  rgb(255, 102, 102);
+}
+
+/* .dot {
   border-radius: 50%;
   background-color: rgb(255, 253, 125);
   position: absolute;
@@ -28,7 +38,7 @@ h1{
   width: 94px;
   height: 93px;
   z-index: 3;
-}
+} */
 .carousel-item img {
   height: 500px;
   width: auto;
@@ -41,10 +51,10 @@ body{
 
 }
 .pink{
-background-color: pink;
+background-color: lightyellow;
 }
 .yellow{
-  background-color: yellow;
+  background-color: lightyellow;
 }
 
 /* * {
